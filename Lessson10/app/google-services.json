@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "945981582549",
+    "firebase_url": "https://idk-some-test.firebaseio.com",
+    "project_id": "idk-some-test",
+    "storage_bucket": "idk-some-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945981582549:android:dc02f8704249dcf6e0c65c",
+        "android_client_info": {
+          "package_name": "com.thatrumme.sometest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945981582549-jjlqbb1o08ji97lph3qv1dtq1vno4ekg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9UojWsWRW9Uh9EKrOkVuw3Rg36jdFhTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945981582549-jjlqbb1o08ji97lph3qv1dtq1vno4ekg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
